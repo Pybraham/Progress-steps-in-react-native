@@ -16,7 +16,10 @@ Progress Steps in React Native, step 1 of 10, step 2 of 10
 - [x] Entwicklungsserver starten: Auf Terminal tippen npx expo start ( in ios npx expo start -c --tunnel)
 
 
-#codes in the repo section
+![alt text](https://github.com/Pybraham/Progress-steps-in-react-native/blob/main/stepos.png)<br/>
+Sample progress App from my projekt <br/>
+
+#codes in the repo section<br/>
 
 ```
 import React, { useState } from 'react';
